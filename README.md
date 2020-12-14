@@ -1,4 +1,4 @@
-# gh-action-build-info
+# gh-action-build-info-file
 
 This Action creates a build artefact file with info on the build.
 
@@ -20,4 +20,4 @@ This action doesn't provide any GH Actions output, but adds a file to the build.
 
     - name: Create a build info file
       id: build-info
-      uses: IMGARENA/gh-action-build-info@v1.0.0
+      uses: IMGARENA/gh-action-build-info-file@v1
