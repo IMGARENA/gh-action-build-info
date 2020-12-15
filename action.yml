@@ -1,5 +1,8 @@
 name: 'Build info artefact file'
 description: 'This action creates a build artefact to a specified location containing useful information about the build.'
+branding:
+  icon: 'activity'
+  color: 'white'
 inputs:
   output-location:
     description: 'Output location'
